@@ -1,0 +1,14 @@
+# 操作系统元数据
+.DS_Store
+Thumbs.db
+
+# 编辑器与 IDE 临时配置
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 临时文件与日志
+*.tmp
+*.log
